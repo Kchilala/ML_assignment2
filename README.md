@@ -11,7 +11,7 @@ scikit-learn
 Matplotlib (for data visualization)
 ### Installation
 Clone the repository to your local machine:
-git clone https://your-repository-link
+git clone (https://github.com/Kchilala/ML_assignment2)
 Install the required Python packages:
 pip install numpy pandas scikit-learn matplotlib
 ### Running the Code
